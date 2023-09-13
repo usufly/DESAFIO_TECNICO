@@ -2,12 +2,19 @@
  O desafio consiste em alterar a frequência em que pisca um LED ao clicar em um botão.
  
  Para a realização do desafio foram utilizados:
+ 
  -Placa Blue pill com o microcontrolador STM32F103C8T6;
+ 
  -Um LED vermelho;
+ 
  -Um resistor de 220ohms;
+ 
  -Um botão;
+ 
  -Jumpers;
+ 
  -Uma protoboard.
+ 
  -Um gravador St Link
 
  O programa foi feito na CubeIDE e pode ser importado e compilado diretamente em qualquer Blue Pill.
