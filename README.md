@@ -4,6 +4,8 @@
  # Para a realização do desafio foram utilizados:
  
  -Placa Blue pill com o microcontrolador STM32F103C8T6;
+ ![Uploading image.png…]()
+
  
  -Um LED vermelho;
  
