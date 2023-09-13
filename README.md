@@ -1,10 +1,13 @@
 # Desafio_tecnico
  O desafio consiste em alterar a frequência em que pisca um LED ao clicar em um botão.
  
+ O programa foi feito na CubeIDE e pode ser importado e compilado diretamente em qualquer Blue Pill. A parte programada do projeto se encontra no arquivo "main.c", os demais arquivos são gerados pela IDE.
+ 
  # Para a realização do desafio foram utilizados:
  
  -Placa Blue pill com o microcontrolador STM32F103C8T6;
- ![Uploading image.png…]()
+ ![STM32F103C8T6_Blue_Pill-1](https://github.com/usufly/DESAFIO_TECNICO/assets/77942226/05565947-3848-4f78-bfa3-00662bdab80e)
+
 
  
  -Um LED vermelho;
@@ -19,8 +22,6 @@
  
  -Um gravador St Link
 
-
- O programa foi feito na CubeIDE e pode ser importado e compilado diretamente em qualquer Blue Pill.
 
  # As etapas para a configuração do Hardware são:
  
