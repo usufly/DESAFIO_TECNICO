@@ -1,7 +1,7 @@
 # Desafio_tecnico
  O desafio consiste em alterar a frequência em que pisca um LED ao clicar em um botão.
  
- O programa foi feito na CubeIDE e pode ser importado e compilado diretamente em qualquer Blue Pill. A parte programada do projeto se encontra no arquivo "main.c", os demais arquivos são gerados pela IDE.
+ O programa foi feito na CubeIDE e pode ser importado e compilado diretamente em qualquer Blue Pill. A parte programada do projeto se encontra no arquivo "main.c"(Core/Src/main.c), os demais arquivos são gerados pela IDE.
  
  # Para a realização do desafio foram utilizados:
  
